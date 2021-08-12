@@ -55,3 +55,23 @@ git push
 git push origin master
 git add .
 git commit -m "updated"
+git remote -v
+git add .
+git commit -m "adding hyperparameter tuning"
+git push
+git push origin master
+git add .
+git commit -m "adding new predictions"
+git push origin master
+ls
+git remote -v
+git add DOGEUSD.ipynb ETHUSD.ipynb 
+git commit -m "updating hyperparameters"
+git push origin master
+ls
+ls
+git remote -v
+ls
+git add ETCUSD.ipynb 
+git commit -m "adding ethereum classic"
+git push origin master
