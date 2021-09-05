@@ -75,3 +75,10 @@ ls
 git add ETCUSD.ipynb 
 git commit -m "adding ethereum classic"
 git push origin master
+git remote -v
+git add .
+git commit -m "updated hyperparams"
+git push
+git push origin main
+git push origin master
+git log

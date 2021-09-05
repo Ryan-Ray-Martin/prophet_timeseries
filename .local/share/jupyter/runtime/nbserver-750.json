@@ -3,7 +3,7 @@
   "hostname": "localhost",
   "notebook_dir": "/home/jupyter",
   "password": false,
-  "pid": 1004,
+  "pid": 750,
   "port": 8080,
   "secure": false,
   "sock": "",
